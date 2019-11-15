@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'DBHeavent-Bold';
+	font-display: auto;
+    src: local('DBHeavent-Bold'), url('../fonts/DBHeavent-Bold/DBHeavent-Bold.eot');
+    src: url('../fonts/DBHeavent-Bold/DBHeavent-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DBHeavent-Bold/DBHeavent-Bold.woff') format('woff'),
+         url('../fonts/DBHeavent-Bold/DBHeavent-Bold.svg#DBHeavent-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DBHeavent';
+	font-display: auto;
+    src: local('DBHeavent'), url('../fonts/DBHeavent/DBHeavent.eot');
+    src: url('../fonts/DBHeavent/DBHeavent.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DBHeavent/DBHeavent.woff') format('woff'),
+         url('../fonts/DBHeavent/DBHeavent.svg#DBHeavent') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DBHeaventt-Light';
+	font-display: auto;
+    src: local('DBHeaventt-Light'), url('../fonts/DBHeaventt-Light/DBHeaventt-Light.eot');
+    src: url('../fonts/DBHeaventt-Light/DBHeaventt-Light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DBHeaventt-Light/DBHeaventt-Light.woff') format('woff'),
+         url('../fonts/DBHeaventt-Light/DBHeaventt-Light.svg#DBHeaventt-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSLTextProBold';
+    font-display: auto;
+    src: local('PSLTextProBold'),src: url('../fonts/PSLTextProBold/PSLTextProBold.eot');
+    src: url('../fonts/PSLTextProBold/PSLTextProBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PSLTextProBold/PSLTextProBold.woff') format('woff'),
+         url('../fonts/PSLTextProBold/PSLTextProBold.svg#PSLTextProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PSLTextPro';
+    font-display: auto;
+    src: local('PSLTextPro'),src: url('../fonts/PSLTextPro/PSLTextPro.eot');
+    src: url('../fonts/PSLTextPro/PSLTextPro.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/PSLTextPro/PSLTextPro.woff') format('woff'),
+         url('../fonts/PSLTextPro/PSLTextPro.svg#PSLTextPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
